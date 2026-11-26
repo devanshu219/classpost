@@ -5,6 +5,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <title>ClassPost</title>
 <link>https://devanshu219.github.io/classpost/appcast.xml</link>
 <item>
+<title>1.2.3</title>
+<pubDate>Thu, 26 Nov 2026 05:30:00 +0000</pubDate>
+<sparkle:version>7</sparkle:version>
+<sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/devanshu219/classpost/releases/download/v1.2.3/ClassPost-1.2.3.zip" sparkle:edSignature="DzJntP9sY7RZkTagWm8vV6aeSHPhco7tOfUvk3AG9+BziM1V+K+W3I849XMsH8RPgKaCh0aV7RrRqt5pJTWpDA==" length="14470882" type="application/octet-stream"></enclosure>
+</item>
+<item>
 <title>1.2.2</title>
 <pubDate>Wed, 25 Nov 2026 23:30:00 +0000</pubDate>
 <sparkle:version>6</sparkle:version>
@@ -38,6 +46,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 </item>
 </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 25SpAC75/+R7O1GpiqbOgp7R9BAV6/sNARfDNtefRawPRbNMG7ElBzn3N4Q/XGOtlJKsAhtr+4x0YPw5HBobAw==
-length: 2616
+edSignature: /yTHPvRiiGTLh1hMgXDPZcBFe9u+qfDSFSO4C8K1sJr6fC7/0zrNB1qtq+kuNtlsQTR64EcNwrezXKYx9FrJCw==
+length: 3146
 -->
